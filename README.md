@@ -1,5 +1,6 @@
 # Black Tek Server [![Linux Build](https://github.com/Black-Tek/BlackTek-Server/actions/workflows/linux_build_runner.yml/badge.svg?branch=master)](https://github.com/Black-Tek/BlackTek-Server/actions/workflows/linux_build_runner.yml) [![Windows Build](https://github.com/Black-Tek/BlackTek-Server/actions/workflows/windows_build_runner.yml/badge.svg)](https://github.com/Black-Tek/BlackTek-Server/actions/workflows/windows_build_runner.yml)
-<iframe src="https://discord.com/widget?id=1251683017441677372&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord](https://img.shields.io/discord/1251683017441677372?style=social&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FJgs5czzC)
+
 
 ## What is BlackTek Server?
 __________________
